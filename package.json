@@ -1,6 +1,6 @@
 {
   "name": "mnc-lookup",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "list of mobile network operators importable as a module",
   "main": "index.js",
   "scripts": {
