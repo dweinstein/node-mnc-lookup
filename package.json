@@ -19,5 +19,14 @@
     "lodash.find": "^3.2.1",
     "lodash.indexby": "^3.1.1",
     "tsv": "^0.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dweinstein/node-mnc-lookup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dweinstein/node-mnc-lookup/issues"
+  },
+  "homepage": "https://github.com/dweinstein/node-mnc-lookup#readme"
 }
