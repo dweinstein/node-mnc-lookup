@@ -1,5 +1,5 @@
 {
-  "name": "node-mnclist",
+  "name": "mnc-lookup",
   "version": "0.0.1",
   "description": "list of mobile network operators importable as a module",
   "main": "index.js",
