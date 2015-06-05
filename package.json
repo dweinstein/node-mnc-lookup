@@ -1,0 +1,23 @@
+{
+  "name": "node-mnclist",
+  "version": "0.0.1",
+  "description": "list of mobile network operators importable as a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobile",
+    "network",
+    "carriers",
+    "operators",
+    "mnc"
+  ],
+  "author": "dweinstein",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.find": "^3.2.1",
+    "lodash.indexby": "^3.1.1",
+    "tsv": "^0.2.0"
+  }
+}
