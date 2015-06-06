@@ -1,22 +1,28 @@
 id	name
 310110	Wireless 2000 PCS
+310120	Sprint (LTE network)
 310020	Union Telephone
+310200	T-Mobile
 310260	T-Mobile
+310016	Cricket Communications
 310030	Centennial
+310034	Airpeak
 310310	T-Mobile
-310040	Concho Wireless 
+310311	AT&T
+310040	Concho Wireless
 310460	Simmetry
-310070	Highland Cellular
+310070	AT&T
 310080	Corr Wireless
 310090	Edge Wireless
 310100	Plateau Wireless
+310160	T-Mobile USA
 310170	T-Mobile (former Cingular Wireless CA/NV)
 310180	West Central
 310190	Alaska Wireless
 310320	Cellular One (not Dobson)
 310340	WestLink
 310390	Yorkville
-310410	Cingular Wireless
+310410	AT&T (former Cingular Wireless)
 310420	Cincinnati Bell
 310430	Alaska DigiTel
 310440	Cellular One (not Dobson)
@@ -26,18 +32,21 @@ id	name
 310500	Alltel (formerly PSC Wireless - GA/AL region only)
 310530	West VA Wireless
 310540	Oklahoma Western
-310560	Cellular One DCS
+310560	AT&T (former Cellular One DCS)
+310580	T-Mobile
 310590	Western Wireless (now part of Alltel)
 310610	Epic Touch
 310620	Coleman Telecomm
 310630	AmeriLink PCS
 310640	Einstein PCS
-310680	Cellular One DCS (Dobson. Formerly NPI Wireless)
+310660	T-Mobile
+310680	AT&T (former Cellular One DCS)
 310690	Immix Wireless
 310740	Telemetrix
 310760	Panhandle Telecomm
 310770	Iowa Wireless
 310790	PinPoint Wireless
+310800	T-Mobile
 310830	Caprock Cellular
 310870	Kaplan
 310880	Advantage Cellular
@@ -65,3 +74,16 @@ id	name
 311190	Cellular Properties Inc. (aka CellOne East Central IL)
 311210	Farmers Cellular
 311250	USA i CAN
+311480	Verizon Wireless (4G LTE)
+311481	Verizon Wireless (4G LTE)
+311482	Verizon Wireless (4G LTE)
+311483	Verizon Wireless (4G LTE)
+311484	Verizon Wireless (4G LTE)
+311485	Verizon Wireless (4G LTE)
+311486	Verizon Wireless (4G LTE)
+311487	Verizon Wireless (4G LTE)
+311488	Verizon Wireless (4G LTE)
+311489	Verizon Wireless (4G LTE)
+311490	Sprint
+311580	US_Cellular
+311870	Sprint
